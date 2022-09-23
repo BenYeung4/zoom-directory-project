@@ -4,6 +4,8 @@
 
 Zoom directory for companies, after the pandemic most companies schedule zoomings. Some are for recurring meetings, while others are for one offs, or belong to a specific individual. We're always trying to figure out which zoom link and codes to use, with this program, this will be a quick and easaly accessible alternative to keep a company's zoom meetings organized.
 
+![image](https://user-images.githubusercontent.com/52897163/191878064-6652537b-595e-4d42-a135-53fb566eaf9d.png)
+
 ```
 AS AN ORG I want to easily access the zoom rooms of my coworkers
 AS AN ORG I want to be able to allow managers to create and/or edit their employee’s accounts
@@ -11,6 +13,8 @@ AS A USER I want to access my company’s org chart and see their job/department
 ```
 
 ## Deployed Application
+
+https://tranquil-plains-33887.herokuapp.com/
 
 ## Table of Content
 
